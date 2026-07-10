@@ -98,6 +98,7 @@ A suite of professional cybersecurity tools and resources developed by the [**Ha
 * [joomscan](https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project) - Joomla vulnerability scanner.
 * [ACSTIS](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
 * [SQLmate](https://github.com/UltimateHackers/sqlmate) - A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website (optional).
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) autonomous AI penetration-testing platform and MCP host with per-technology offensive sub-agents and an evidence trail per finding.
 * [JCS](https://github.com/TheM4hd1/JCS) - Joomla Vulnerability Component Scanner with automatic database updater from exploitdb and packetstorm.
 
 ---
