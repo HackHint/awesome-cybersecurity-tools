@@ -87,6 +87,7 @@ A suite of professional cybersecurity tools and resources developed by the [**Ha
 #### Web Vulnerability Scanners
 
 * [Netsparker Application Security Scanner](https://www.netsparker.com/) - Application security scanner to automatically find security flaws.
+* [VulnWatch](https://vulnwatch.tech/) - Cloud-based web application vulnerability scanner with AI analyst and severity-ranked findings.
 * [Nikto](https://cirt.net/nikto2) - Noisy but fast black box web server and web application vulnerability scanner.
 * [Arachni](http://www.arachni-scanner.com/) - Scriptable framework for evaluating the security of web applications.
 * [w3af](https://github.com/andresriancho/w3af) - Web application attack and audit framework.
